@@ -8,9 +8,9 @@
 
 #### REQUIRED (10pts)
 
-- [ ] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
-- [ ] User can retweet a tweet. (2pts)
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
 
 #### BONUS
 
@@ -22,7 +22,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/TNBTrEiHV8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](http://recordit.co/).
 
